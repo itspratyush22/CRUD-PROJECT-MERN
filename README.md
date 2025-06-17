@@ -68,7 +68,8 @@ npm start
 ## 🙋‍♂️ Author
 
 - GitHub: [@itspratyush22](https://github.com/itspratyush22)
-- LinkedIn: [(inkedin.com/in/pratyush-nayak-5b0a95238/)
+- LinkedIn: [Pratyush Nayak](https://www.linkedin.com/in/pratyush-nayak-5b0a95238/)
+
 
 ---
 
